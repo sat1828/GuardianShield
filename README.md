@@ -296,15 +296,6 @@ For Trust & Safety, People Operations, and research roles:
 4. **Full PCL-5 (20 items)** — the 10-item subset was sufficient for screening but the full scale would have enabled cluster-level analysis (intrusion vs. avoidance vs. arousal dominance patterns)
 ---
  
-## 📬 Contact
- 
-**GuardianShield Research Project**
-Independent primary research — Hyderabad, 2024
- 
-> If you are a BPO HR professional reviewing this project and would like to discuss the framework or explore a Tier 2 pilot (Buddy System + Calibration add-on, zero budget, 30-day deployment), please reach out via GitHub or LinkedIn.
- 
----
- 
 <div align="center">
 **If you are a content moderation professional experiencing distress:**
  
